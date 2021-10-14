@@ -16,6 +16,9 @@
 
 <body>
     <?php
+    include 'variablex.php';
+ #   require 'variablex.php';
+
     $harga_baju = 24;
     $duit_bawa = 50;
 
